@@ -15,7 +15,7 @@
 }
 
 .logo h1 {
-  margin-left: .5em;
+  margin-left: 0.5em;
 }
 
 .link_items {
@@ -25,13 +25,13 @@
 
 .link_items li {
   margin-right: 1.3em;
-} 
+}
 
 .link_items a {
   color: #fff;
   text-decoration: none;
   padding: 5px;
-  trasition: 0.4s;
+  transition: 0.4s;
   border-bottom: 2px solid transparent;
 }
 
